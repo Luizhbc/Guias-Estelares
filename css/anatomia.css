@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+}
+
+# Anatomia
+'''css
+
+h1 <- selector
+
+{    <- declaration
+  color:      <- properties  blue;   <- propertie value
+  font-size:  <- properties  60px;   <- propertie value
+  background: <- properties  gray;   <- propertie value
+
+}
+
+'''

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+
+h1 {
+  color: green;
+  font-family: 'Festive' cursive;
+}
+strong {
+  color: red;
+}
