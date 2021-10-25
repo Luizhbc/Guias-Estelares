@@ -1,0 +1,4 @@
+@import		/*incluir um css externo */
+@media		/*regras condicionais para dispositivos */
+@font-face	/*Fontes externas*/
+@keyframes	/*animation*/
